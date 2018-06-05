@@ -6,5 +6,7 @@ class Dog
   end
 end 
 
-Dog.new("Fido","Snoopy","Lassie")
+Dog.new("Fido")
+Dog.new("lassie")
+Dog.new("Snoopy")
 
