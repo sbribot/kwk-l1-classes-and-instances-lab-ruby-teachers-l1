@@ -6,4 +6,5 @@ class Dog
   end
 end 
 
+Dog.new("Fido","Snoopy","Lassie")
 
