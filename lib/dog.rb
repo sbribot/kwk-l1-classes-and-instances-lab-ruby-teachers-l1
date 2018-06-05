@@ -10,7 +10,7 @@ def name
 end
 end 
 
-fido = Dog.new
+fido = Dog.new("fido")
 dog_two = Dog.new("lassie")
 dog_three = Dog.new("snoopy")
 
