@@ -11,6 +11,6 @@ end
 end 
 
 fido = Dog.new("fido")
-dog_two = Dog.new("lassie")
-dog_three = Dog.new("snoopy")
+lassie = Dog.new("lassie")
+snoopy = Dog.new("snoopy")
 
